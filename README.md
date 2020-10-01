@@ -1,2 +1,6 @@
 # FormularioColaborativo
-Es una aplicación demo de web-sppckets que permite trabajar formularios de forma simultanea
+Es una aplicación demo de web-sockets que permite trabajar formularios de forma simultanea
+
+usando 
+#Angular
+#Quarkus
